@@ -29,7 +29,7 @@ sections:
       - input_type: textarea
         name: message
         label: Message
-        default_value: Your message
+        default_value: Your question
       - input_type: checkbox
         name: consent
         label: >-
