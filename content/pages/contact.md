@@ -31,11 +31,6 @@ sections:
         name: message
         label: Message
         default_value: Your question
-      - input_type: checkbox
-        name: consent
-        label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
     submit_label: Send Message
 seo:
   title: Contact
