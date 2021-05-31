@@ -25,6 +25,7 @@ sections:
           - Error on the site
           - Sponsorship
           - Other
+        default_value: Subject
       - input_type: textarea
         name: message
         label: Message
