@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'Hi, I''m Jane.'
     content: |
-      不定期
+      不定期打理~争取月更~
   - section_id: about
     type: section_content
     title: About
